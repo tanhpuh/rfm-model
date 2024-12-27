@@ -11,4 +11,4 @@ The RFM (Recency, Frequency, Monetary) model is a data-driven approach used to s
 
 - Visualizations: Generates insightful charts and graphs to analyze RFM distributions.
 
-- Integration: Compatible with platforms such as Tiki for customer journey tracking and recommendation systems.
+- Integration: Compatible with platforms for customer journey tracking and recommendation systems.
